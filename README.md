@@ -6,4 +6,4 @@ Main differing features are:
 - Zero Trust Architecture built-in
 - full observability
 - performance monitoring
-- immutability
+- system immutability
