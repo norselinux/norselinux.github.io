@@ -7,3 +7,4 @@ Main differing features are:
 - full observability
 - performance monitoring
 - system immutability
+- secure distributed messaging
